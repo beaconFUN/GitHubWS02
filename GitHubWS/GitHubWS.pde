@@ -6,6 +6,6 @@ void setup() {
 void draw() {
   textAlign(LEFT);
   fill(0);
-  textSize(16);
+  textSize(40);
   text("Hello world", 20, 20);
 }
