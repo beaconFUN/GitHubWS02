@@ -7,5 +7,5 @@ void draw() {
   textAlign(CENTER);
   fill(255,0,0);
   textSize(16);
-  text("Hello world", 20, 20);
+  text("Hello world", 200, 200);
 }
